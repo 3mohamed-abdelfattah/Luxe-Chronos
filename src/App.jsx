@@ -1,10 +1,7 @@
-function App() {
+import { LandingPage } from "@/pages/landing/LandingPage"
 
-  return (
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
-  )
+function App() {
+  return <LandingPage />
 }
 
 export default App
