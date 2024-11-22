@@ -8,7 +8,7 @@ import Watch3 from '@/assets/for_landing/collections/watch3.png'
 
 export const CollectionSection = () => {
     return (
-        <main className="bg-secondaryColor flex flex-wrap justify-around items-center p-8">
+        <main className="bg-secondaryColor flex flex-wrap gap-6 justify-around items-center p-8 overflow-hidden">
             <CollectionCard
                 watchImage={Watch1}
                 model="Rolex"

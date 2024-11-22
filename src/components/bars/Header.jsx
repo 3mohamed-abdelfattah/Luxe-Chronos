@@ -4,13 +4,13 @@ import * as Icons from '@/utils/icons.util';
 
 export const Header = () => {
     return (
-        <header className="sticky flex justify-between px-10 items-center bg-transparent text-white py-10 z-50">
+        <header className="sticky flex justify-between px-5 sm:px-10 items-center bg-transparent text-white py-10 z-50">
 
             {/* Logo */}
-            <p className="font-medium text-2xl cursor-pointer">Luxe Chronos</p>
+            <p className="font-medium text-xl vsm:text-2xl cursor-pointer">Luxe Chronos</p>
 
             {/* Icons */}
-            <div className="flex gap-7 font-medium">
+            <div className="flex gap-3 vsm:gap-7 font-medium">
                 {[Icons.SearchIcon, Icons.ProfileIcon, Icons.CartIcon].map((Icon, index) =>
                     <span className="cursor-pointer hover:scale-125" key={index}><Icon /></span>
                 )}

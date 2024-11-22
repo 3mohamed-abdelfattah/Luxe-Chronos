@@ -4,10 +4,7 @@
 @tailwind components;
 @tailwind utilities;
 
-* {
-  /* outline: 1px solid gold; */
-  transition: all 0.5s ease-out;
-}
+* {}
 
 body {
   font-family: "Cinzel Decorative", serif;

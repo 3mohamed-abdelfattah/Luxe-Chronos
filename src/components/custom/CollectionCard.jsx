@@ -5,8 +5,8 @@ export const CollectionCard = ({ watchImage, model, price, watchName }) => {
         <section className="flex-shrink-0 relative rounded-lg max-w-xs shadow-lg">
             {/* background square shapes */}
             <svg className="absolute top-28 left-0" viewBox="0 0 375 283" fill="none" style={{ transform: 'scale(1.5)', opacity: '0.1' }}>
-                <rect x="159.52" y={175} width={152} height={152} rx={8} transform="rotate(-45 159.52 175)" fill="white" />
-                <rect y="107.48" width={152} height={152} rx={8} transform="rotate(-45 0 107.48)" fill="white" />
+                <rect x="149.52" y={175} width={150} height={150} rx={8} transform="rotate(-45 159.52 175)" fill="white" />
+                <rect y="107.48" width={150} height={150} rx={8} transform="rotate(-45 0 107.48)" fill="white" />
             </svg>
             {/* collection image */}
             <div className="relative pt-10 px-10 flex items-center justify-center">

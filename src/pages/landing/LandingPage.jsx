@@ -10,7 +10,7 @@ export const LandingPage = () => {
             {/* Hero Section*/}
             <section className="relative h-screen">
                 {/* Hero Background Video*/}
-                <video autoPlay muted loop className='absolute -z-20 h-screen w-full object-fill'>
+                <video autoPlay muted loop className='absolute -z-20 h-screen w-full object-cover lg:object-fill'>
                     <source src={VideoBG} type="video/mp4" />
                 </video>
                 <Header />
