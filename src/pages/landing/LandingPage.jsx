@@ -1,5 +1,5 @@
 import React from 'react'
-import { Header, HeroSection } from '@/components'
+import { Header, HeroSection, SupportedBrand } from '@/components'
 
 export const LandingPage = () => {
     return (
@@ -10,6 +10,8 @@ export const LandingPage = () => {
                 <Header />
                 <HeroSection />
             </section>
+
+            <SupportedBrand />
 
         </main>
     )
