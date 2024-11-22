@@ -6,10 +6,7 @@ export const Header = () => {
         <header className="sticky flex justify-between px-10 items-center bg-transparent text-white py-10 z-50">
 
             {/* Logo */}
-            <p className="font-bold text-2xl cursor-pointer">
-                Luxe
-                <span className="text-secondaryColor"> Chronos</span>
-            </p>
+            <p className="font-medium text-2xl cursor-pointer">Luxe Chronos</p>
 
             {/* Icons */}
             <div className="flex gap-7 font-medium">

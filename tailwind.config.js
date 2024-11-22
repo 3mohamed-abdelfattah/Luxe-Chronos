@@ -8,8 +8,7 @@ export default {
     extend: {
       colors: {
         primaryColor: "#FFFFFF",
-        secondaryColor: "#061423",
-        hoverColor: "#C89578",
+        secondaryColor: "#000000",
       },
       screens: {
         'xl': '1280px',
