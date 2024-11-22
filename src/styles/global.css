@@ -24,10 +24,25 @@ html {
   width: 0px;
 }
 
-/* Overlay color for heto section */
+/* Overlay color for hero section */
 .overlay {
   position: absolute;
   bottom: 0;
   width: 100%;
   background: linear-gradient(180deg, #ffffff00 0%, #000000 90%);
+}
+
+/* Footer Background Image */
+.footerBG {
+  background-image: url("../assets/for_landing/footerImg.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+/* Overlay color for footer section */
+.overlayF {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background: linear-gradient(0deg, #ffffff00 50%, #000000 99%);
 }
