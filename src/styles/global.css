@@ -34,7 +34,7 @@ html {
 
 /* Footer Background Image */
 .footerBG {
-  background-image: url("../assets/for_landing/footerImg.jpg");
+  background-image: url("@/assets/for_landing/backgrounds/footerImg.jpg");
   background-size: cover;
   background-position: center;
 }

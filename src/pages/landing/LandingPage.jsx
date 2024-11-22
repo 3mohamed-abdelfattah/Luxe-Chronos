@@ -1,6 +1,6 @@
 import React from 'react'
 // Assets
-import VideoBG from '@/assets/for_landing/heroBg.mp4'
+import VideoBG from '@/assets/for_landing/backgrounds/heroBg.mp4'
 // Components
 import { Header, HeroSection, SupportedBrand, CollectionSection, Footer } from '@/components'
 
