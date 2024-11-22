@@ -4,7 +4,9 @@
 @tailwind components;
 @tailwind utilities;
 
-* {}
+* {
+  transition: all 0.5s ease-out;
+}
 
 body {
   font-family: "Cinzel Decorative", serif;
