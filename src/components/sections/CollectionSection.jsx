@@ -1,28 +1,24 @@
 import React from 'react'
 // Component
 import { CollectionCard } from '@/components'
-// Assets
-import Watch1 from '@/assets/for_landing/collections/watch1.webp'
-import Watch2 from '@/assets/for_landing/collections/watch2.webp'
-import Watch3 from '@/assets/for_landing/collections/watch3.webp'
 
 export const CollectionSection = () => {
     return (
         <main className="bg-secondaryColor flex flex-wrap gap-6 justify-around items-center p-8 overflow-hidden">
             <CollectionCard
-                watchImage={Watch1}
+                watchImage='https://the1916company.imgix.net/rolex/watch_assets/upright_watches_assets/m336934-0001_drp-upright-bba-with-shadow.png?auto=format,compress'
                 model="Rolex"
                 watchName="Sky Dweller"
                 price="26,800"
             />
             <CollectionCard
-                watchImage={Watch2}
+                watchImage='https://the1916company.imgix.net/rolex/watch_assets/upright_watches_assets/m336933-0001_drp-upright-bba-with-shadow.png?auto=format,compress'
                 model="Rolex"
                 watchName="Sea Dweller"
                 price="86,500"
             />
             <CollectionCard
-                watchImage={Watch3}
+                watchImage='https://the1916company.imgix.net/rolex/watch_assets/upright_watches_assets/m336935-0001_drp-upright-bba-with-shadow.png?auto=format,compress'
                 model="Rolex"
                 watchName="Air King"
                 price="94,300"
