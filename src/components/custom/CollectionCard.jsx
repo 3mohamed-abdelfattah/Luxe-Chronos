@@ -11,7 +11,7 @@ export const CollectionCard = ({ watchImage, model, price, watchName }) => {
             {/* collection image */}
             <div className="relative pt-10 px-10 flex items-center justify-center">
                 <div className="block absolute w-48 h-48 bottom-0 left-0 -mb-24 ml-3" style={{ background: 'radial-gradient(black, transparent 60%)', transform: 'rotate3d(0, 0, 1, 20deg) scale3d(1, 0.6, 1)', opacity: '0.2' }} />
-                <img src={watchImage} alt={watchName} />
+                <img src={watchImage} alt={watchName} width="300" height="300" loading='lazy' />
             </div>
             {/*  details */}
             <div className="relative text-white px-6 pb-6 mt-6">

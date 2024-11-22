@@ -15,7 +15,7 @@ export const Footer = () => {
             {/* Left Title (Limited Editions) */}
             <span className="p-5 md:p-20 z-10">
                 <h1 className="text-2xl sm:text-4xl mb-5 underline underline-offset-4">Limited Editions</h1>
-                <h3 className="text-sm sm:text-base max-w-[550px]">Discover the allure of vintage watches and the enduring value of pre-owned timepieces, each crafted to stand the test of time with timeless elegance.</h3>
+                <h2 className="text-sm sm:text-base max-w-[550px]">Discover the allure of vintage watches and the enduring value of pre-owned timepieces, each crafted to stand the test of time with timeless elegance.</h2>
             </span>
 
         </footer>

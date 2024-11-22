@@ -2,9 +2,9 @@ import React from 'react'
 // Component
 import { CollectionCard } from '@/components'
 // Assets
-import Watch1 from '@/assets/for_landing/collections/watch1.png'
-import Watch2 from '@/assets/for_landing/collections/watch2.png'
-import Watch3 from '@/assets/for_landing/collections/watch3.png'
+import Watch1 from '@/assets/for_landing/collections/watch1.webp'
+import Watch2 from '@/assets/for_landing/collections/watch2.webp'
+import Watch3 from '@/assets/for_landing/collections/watch3.webp'
 
 export const CollectionSection = () => {
     return (
