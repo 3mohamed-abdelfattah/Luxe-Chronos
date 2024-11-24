@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Luxe Chronos** is a redesigned and rebuilt landing page for a luxury watches brand, created using **React**, **Tailwind CSS**, and **Vite**. This project was developed for a client on Upwork, aiming to provide a sleek and modern user experience for showcasing luxury watches.
+**Luxe Chronos** is a redesigned and rebuilt landing page for a luxury watches shop, created using **React**, **Tailwind CSS**, and **Vite**. This project was developed for a client on Upwork, aiming to provide a sleek and modern user experience for showcasing luxury watches.
 
 The landing page has been optimized for high performance, accessibility, and best practices, ensuring that it meets top standards for SEO and usability. 
 
