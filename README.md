@@ -135,7 +135,7 @@ You can access the live demo [here](https://luxe-chronos.vercel.app/).
 
 ## Contributions
 
-Contributions are **not allowed ever** for this project.
+⚠️ Contributions are **not allowed ever** for this project. ⚠️
 
 ---
 
