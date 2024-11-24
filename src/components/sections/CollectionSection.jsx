@@ -4,7 +4,7 @@ import { CollectionCard } from '@/components'
 
 export const CollectionSection = () => {
     return (
-        <main className="bg-secondaryColor flex flex-wrap gap-6 justify-around items-center p-8 overflow-hidden">
+        <main className="bg-secondaryColor flex flex-wrap gap-6 justify-around items-center tiny:p-8 overflow-hidden">
             <CollectionCard
                 watchImage='https://the1916company.imgix.net/rolex/watch_assets/upright_watches_assets/m336934-0001_drp-upright-bba-with-shadow.png?auto=format,compress'
                 model="Rolex"
